@@ -1,1 +1,16 @@
-
+neofetch
+tmux
+dwm
+pulseaudio
+st
+#alacritty
+bash
+nerd-fonts
+terminus-font
+####ProFontWindows Nerd Font
+###terminus font for DWM bar
+vim
+picom
+dmenu
+feh
+lf
